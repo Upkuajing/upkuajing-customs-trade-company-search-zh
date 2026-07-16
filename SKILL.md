@@ -1,7 +1,7 @@
 ---
 name: upkuajing-customs-trade-company-search-zh
 description: 调取真实可靠的全球海关进出口记录，挖掘各行各业的进口商、出口商与采购商；可依托产品品类及原产国筛选目标企业、海外采购客户和优质供应商，助力外贸人员精准开发全球合作伙伴。
-metadata: {"version":"1.0.8","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
+metadata: {"version":"1.0.9","homepage":"https://www.upkuajing.com","clawdbot":{"emoji":"🏢","requires":{"bins":["python"],"env":["UPKUAJING_API_KEY"]},"primaryEnv":"UPKUAJING_API_KEY"}}
 ---
 
 # 跨境魔方海关贸易公司搜索
